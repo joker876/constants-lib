@@ -1,0 +1,32 @@
+const
+    SECOND    = 1000,
+    MINUTE    = SECOND * 60,
+    HOUR      = MINUTE * 60,
+    DAY       = HOUR * 24,
+    MONTH28   = DAY * 28,
+    MONTH29   = DAY * 28,
+    MONTH     = DAY * 30,
+    MONTH30   = MONTH,
+    MONTH31   = DAY * 31,
+    YEAR      = DAY * 365,
+    LEAP_YEAR = DAY * 366,
+    DECADE    = YEAR * 10 + DAY * 2.5,
+    CENTURY   = DECADE * 10,
+    MILLENIUM = CENTURY * 10;
+
+export default {
+    SECOND,
+    MINUTE,
+    HOUR,
+    DAY,
+    MONTH28,
+    MONTH29,
+    MONTH,
+    MONTH30,
+    MONTH31,
+    YEAR,
+    LEAP_YEAR,
+    DECADE,
+    CENTURY,
+    MILLENIUM,
+}

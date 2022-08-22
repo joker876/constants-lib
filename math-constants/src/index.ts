@@ -1,0 +1,13 @@
+let { E, LN10, LN2, LOG10E, LOG2E, PI, SQRT1_2, SQRT2 } = Math;
+const
+    SQRT3 = Math.sqrt(3),
+    SQRT5 = Math.sqrt(5),
+    SQRT6 = Math.sqrt(6),
+    SQRT10 = Math.sqrt(10),
+    PHI = (1 + SQRT5) / 2,
+    GOLDEN_RATIO = PHI,
+    SILVER_RATIO = 1 + SQRT2,
+    EULER_CONSTANT = 0.577215664901531
+export default {
+    E, LN10, LN2, LOG10E, LOG2E, PI, SQRT1_2, SQRT2, SQRT3, SQRT5, SQRT6, SQRT10, PHI, GOLDEN_RATIO, SILVER_RATIO, EULER_CONSTANT,
+}
