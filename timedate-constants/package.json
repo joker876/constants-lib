@@ -1,6 +1,6 @@
 {
   "name": "timedate-constants",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of constants related to dates and time.",
   "main": "dist/index.js",
   "files": [
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/joker876/constants-lib/issues"
   },
-  "homepage": "https://github.com/joker876/constants-lib/timedate-constants#readme",
+  "homepage": "https://github.com/joker876/constants-lib/tree/master/timedate-constants#readme",
   "keywords": [
     "constants",
     "constant",
